@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Tappi" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/bg_light</item>
+        <item name="android:navigationBarColor">@color/bg_light</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+{
+  "name": "Tappi - Kunal's Sassy Wife",
+  "description": "A high-performance AI assistant named Tappi with a sassy personality and real-time Google Search grounding.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

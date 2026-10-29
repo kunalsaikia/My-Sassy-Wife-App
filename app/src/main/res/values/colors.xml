@@ -1,0 +1,9 @@
+<resources>
+    <color name="primary_orange">#EA580C</color>
+    <color name="primary_orange_dark">#C2410C</color>
+    <color name="deep_green">#006400</color>
+    <color name="teal">#2CA089</color>
+    <color name="pale_mint">#B3FFB3</color>
+    <color name="bg_light">#FDFAF0</color>
+    <color name="bg_dark">#0F172A</color>
+</resources>

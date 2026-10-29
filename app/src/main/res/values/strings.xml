@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tappi - Kunal\'s Sassy Wife</string>
+    <string name="tappi_name">Tappi</string>
+    <string name="tappi_subtitle">The Better Half AI</string>
+    <string name="context_label">Context</string>
+    <string name="domain_label">Kunal\'s Domain</string>
+    <string name="splash_badge">Boss Mode On</string>
+    <string name="splash_arriving">Tappi is arriving…</string>
+    <string name="splash_quote">\"Try to look busy, Kunal. I don\'t want to see you slacking.\"</string>
+    <string name="default_welcome">Oh, look who decided to show up! I\'m Tappi, Kunal\'s much smarter and sassier wife. What do you need now, honey? Try not to make it too boring.</string>
+    <string name="input_placeholder">Ask Tappi something smart, Kunal…</string>
+    <string name="search_placeholder">Find something, Kunal…</string>
+    <string name="saved_wisdom_title">Tappi\'s Saved Wisdom</string>
+    <string name="saved_wisdom_empty">Kunal hasn\'t saved anything yet…</string>
+    <string name="clear_history_prompt">Kunal, darling, are you sure? I won\'t forget your mistakes even if I forget this chat!</string>
+    <string name="copy_all_messages">Copy All Messages</string>
+    <string name="copied_toast">Copied to clipboard, honey!</string>
+    <string name="clear_chat_button">Clear Chat History</string>
+    <string name="regenerate_annoyed">Regenerate (Tappi is annoyed)</string>
+    <string name="thinking_text">Tappi is thinking…</string>
+</resources>

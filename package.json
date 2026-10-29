@@ -1,0 +1,7 @@
+{
+  "name": "tappi",
+  "private": true,
+  "scripts": {
+    "build": "gradle assembleDebug"
+  }
+}
